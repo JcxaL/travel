@@ -1,0 +1,89 @@
+{
+  "schema": "jcli.public-web-texture-provenance.v001",
+  "verifiedOn": "2026-09-26",
+  "license": {
+    "name": "CC0",
+    "url": "https://polyhaven.com/license"
+  },
+  "assets": [
+    {
+      "asset": "Pine Tree 01",
+      "assetId": "pine_tree_01",
+      "officialPage": "https://polyhaven.com/a/pine_tree_01",
+      "authors": [
+        {
+          "name": "Rico Cilliers",
+          "role": "Modeling"
+        },
+        {
+          "name": "Rob Tuytel",
+          "role": "Photography"
+        }
+      ],
+      "localUse": "Twig color and alpha maps used on browser-rendered vegetation cards.",
+      "files": [
+        {
+          "publicPath": "/textures/polyhaven/pine-twig-colour.jpg",
+          "role": "twig diffuse",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "sha256": "e649f0f9bc74d1af5f1a45eaf2fe7a29adaaddfab251f746b983da301e4b80e1",
+          "upstreamUrl": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_tree_01/pine_tree_01_twig_diff_1k.jpg",
+          "upstreamMd5": "b6e5f4e8c228c275e5ff75cb165c2e1f",
+          "relationship": "Byte-identical to the official Poly Haven 1K download."
+        },
+        {
+          "publicPath": "/textures/polyhaven/pine-twig-alpha.png",
+          "role": "twig alpha",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "sha256": "6f91aa99f2c27108d6f817f874954aa7df8bfbb4dea2673e9322555a6ae79d99",
+          "upstreamUrl": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_tree_01/pine_tree_01_twig_alpha_1k.png",
+          "upstreamMd5": "641911a5a3f543911dad04ebb26e7bca",
+          "relationship": "Byte-identical to the official Poly Haven 1K download."
+        }
+      ]
+    },
+    {
+      "asset": "Rocky Terrain 02",
+      "assetId": "rocky_terrain_02",
+      "officialPage": "https://polyhaven.com/a/rocky_terrain_02",
+      "authors": [
+        {
+          "name": "Amal Kumar"
+        }
+      ],
+      "localUse": "Diffuse and OpenGL normal maps tiled on browser-rendered journey ground.",
+      "files": [
+        {
+          "publicPath": "/textures/polyhaven/rocky-ground-colour.jpg",
+          "role": "diffuse",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "sha256": "d570c10b1d5302f4fde9e0e94f4cbab0d5e112fc3fe2b3b91c38a98bd3ddaf4b",
+          "upstreamUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_diff_1k.jpg",
+          "upstreamMd5": "cf604d3868398a6a996cb5ba330dd3ab",
+          "relationship": "Byte-identical to the official Poly Haven 1K download."
+        },
+        {
+          "publicPath": "/textures/polyhaven/rocky-ground-normal.jpg",
+          "role": "OpenGL normal",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "sha256": "f4f9d9671c660f4e509e96d5da3091887dfd557e1353e313fa2d1dc789499ffd",
+          "upstreamUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_nor_gl_1k.jpg",
+          "upstreamMd5": "c1636176f0fa8eb9b924ebdecd47ddfd",
+          "relationship": "Byte-identical to the official Poly Haven 1K download."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "variant": "cab-forward",
+    "path": "exports/train-cab-forward.glb",
+    "bytes": 1660048,
+    "nodes": 30,
+    "mesh_vertices": 118482,
+    "coordinate_system": "glTF standard Y-up (from Blender Z-up)",
+    "animation": "plug sliding door demonstration clip, 30 fps frames1..94",
+    "shader_limit": "Metric upholstery base/roughness/normal maps are embedded. Metal microstructure remains Blender procedural; GLB exports base metal PBR/transmission."
+  },
+  {
+    "variant": "intermediate",
+    "path": "exports/train-intermediate.glb",
+    "bytes": 1552700,
+    "nodes": 30,
+    "mesh_vertices": 102054,
+    "coordinate_system": "glTF standard Y-up (from Blender Z-up)",
+    "animation": "plug sliding door demonstration clip, 30 fps frames1..94",
+    "shader_limit": "Metric upholstery base/roughness/normal maps are embedded. Metal microstructure remains Blender procedural; GLB exports base metal PBR/transmission."
+  },
+  {
+    "variant": "cab-rear",
+    "path": "exports/train-cab-rear.glb",
+    "bytes": 1662660,
+    "nodes": 30,
+    "mesh_vertices": 118482,
+    "coordinate_system": "glTF standard Y-up (from Blender Z-up)",
+    "animation": "plug sliding door demonstration clip, 30 fps frames1..94",
+    "shader_limit": "Metric upholstery base/roughness/normal maps are embedded. Metal microstructure remains Blender procedural; GLB exports base metal PBR/transmission."
+  }
+]

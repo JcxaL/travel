@@ -1,0 +1,31 @@
+{
+  "status": "review",
+  "source": "Authored Blender scenes and user photographs; documented CC0 environment and surface assets.",
+  "interpolation": "Native24fps; no generated motion interpolation.",
+  "films": {
+    "desktop": {
+      "url": "/cinema/journey-desktop.mp4",
+      "sha256": "4ddf56cf09a15c4d3c2b0ad31217d8330a9e3e81c7f8d9374ac6dac1a27cf090",
+      "bytes": 20812315,
+      "fps": 24,
+      "durationSeconds": 51,
+      "frames": 1224,
+      "resolution": [
+        1280,
+        720
+      ]
+    },
+    "mobile": {
+      "url": "/cinema/journey-mobile.mp4",
+      "sha256": "055bedaa8a96b6021fd8c4f236499b38797c0afa75d3fc96b211f20da8e192e5",
+      "bytes": 9760535,
+      "fps": 24,
+      "durationSeconds": 51,
+      "frames": 1224,
+      "resolution": [
+        576,
+        720
+      ]
+    }
+  }
+}

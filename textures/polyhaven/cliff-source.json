@@ -1,0 +1,27 @@
+{
+  "asset": "Rock Face 03",
+  "url": "https://polyhaven.com/a/rock_face_03",
+  "license": "CC0",
+  "authors": [
+    "Dario Barresi",
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "files": {
+    "Diffuse": {
+      "size": 927082,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_diff_1k.jpg",
+      "md5": "e4c34abb1aad5befe12754fad507147a"
+    },
+    "nor_gl": {
+      "size": 1146788,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_nor_gl_1k.jpg",
+      "md5": "cbd30858439ece391480c5e67e09de89"
+    },
+    "Displacement": {
+      "size": 264231,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_disp_1k.jpg",
+      "md5": "9d51d6b2496de79f97b80d43ff1dd7fb"
+    }
+  }
+}
