@@ -1,12 +1,13 @@
 {
-  "status": "review",
+  "status": "ready",
+  "releaseVersion": "v004",
   "source": "Authored Blender scenes and user photographs; documented CC0 environment and surface assets.",
-  "interpolation": "Native24fps; no generated motion interpolation.",
+  "interpolation": "Native 24 fps; no generated motion interpolation.",
   "films": {
     "desktop": {
       "url": "/cinema/journey-desktop.mp4",
-      "sha256": "4ddf56cf09a15c4d3c2b0ad31217d8330a9e3e81c7f8d9374ac6dac1a27cf090",
-      "bytes": 20812315,
+      "sha256": "d9de8220c3cc2a5958b14a506fad4cb829a5f7c1abf8c647824beb7688c1be52",
+      "bytes": 21530099,
       "fps": 24,
       "durationSeconds": 51,
       "frames": 1224,
@@ -17,8 +18,8 @@
     },
     "mobile": {
       "url": "/cinema/journey-mobile.mp4",
-      "sha256": "055bedaa8a96b6021fd8c4f236499b38797c0afa75d3fc96b211f20da8e192e5",
-      "bytes": 9760535,
+      "sha256": "2837d28cdabbe98cbe9d1ecf18d4a47fef032b01700ba7a9e43b6febc80b6d0f",
+      "bytes": 9970437,
       "fps": 24,
       "durationSeconds": 51,
       "frames": 1224,
@@ -27,5 +28,72 @@
         720
       ]
     }
+  },
+  "originalScore": {
+    "url": "/cinema/travel-leitmotif-v004.m4a",
+    "kind": "music-only",
+    "durationSeconds": 51,
+    "sha256": "d8a61cac138301492b31df925ae5eb1fb2d821f389dfeb65e47207281c84d10f",
+    "bytes": 1151077
+  },
+  "floorReflection": {
+    "maskUrl": "/cinema/station-floor-mask.webp",
+    "sha256": "b6a4a91525b0b4c211d55b51fd7cce2f229c62e32d6c004e52056d2733bc9491",
+    "bytes": 17536,
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  "endpoint": {
+    "renderCamera": {
+      "position": [
+        6,
+        -30,
+        4.300000190734863
+      ],
+      "target": [
+        6,
+        -29,
+        4.300000234446252
+      ],
+      "lens": 45,
+      "sensorWidthMm": 36,
+      "shift_y": 0.07874999940395355,
+      "train_head_root": [
+        -4,
+        9,
+        0
+      ]
+    },
+    "physicalPhotoPlane": {
+      "centerBlender": [
+        6,
+        220,
+        40
+      ],
+      "width": 300,
+      "height": 200
+    },
+    "curatedPhotoIds": [
+      "budapest-arches",
+      "highlights-kyoto-dscf9228",
+      "archive-lake-como",
+      "highlights-swiss-alps-dscf0939",
+      "highlights-banff-dscf5594",
+      "southern-alps",
+      "fitz-roy-dawn",
+      "archive-seville",
+      "highlights-grand-teton-dscf9179",
+      "highlights-seven-sisters-dscf1110",
+      "highlights-yantai-weihai-coast-dscf0142",
+      "archive-sun-moon-lake",
+      "highlights-yellowstone-dscf9037",
+      "archive-mono-lake",
+      "sydney-night"
+    ],
+    "sourceSceneSha256": "9c5163bf50cf6634abdbe492682f93f0ee757540d85dadadc887f73272f1ba03",
+    "closedCalibrationSha256": "a75bf091aab0ffae57774960baa6f149e6ec750483d66fb83e69d375fa295467",
+    "openCalibrationSha256": "19a62d48957831403e401ab6baa188d4d4625cad05241e7a47910a76f1185657"
   }
 }
