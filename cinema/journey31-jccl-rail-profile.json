@@ -1,0 +1,264 @@
+{
+  "durationSeconds": 94.625,
+  "brakeStartSeconds": 83.25,
+  "stopSeconds": 91.875,
+  "maxVelocityMetersPerSecond": 23,
+  "samples": [
+    {
+      "timeSeconds": 0.0,
+      "velocityMetersPerSecond": 6.0
+    },
+    {
+      "timeSeconds": 3.5,
+      "velocityMetersPerSecond": 7.0
+    },
+    {
+      "timeSeconds": 6.5,
+      "velocityMetersPerSecond": 8.0
+    },
+    {
+      "timeSeconds": 14.708333333333334,
+      "velocityMetersPerSecond": 8.0
+    },
+    {
+      "timeSeconds": 15.208333333333334,
+      "velocityMetersPerSecond": 8.033273696899414
+    },
+    {
+      "timeSeconds": 15.708333333333334,
+      "velocityMetersPerSecond": 8.24078369140625
+    },
+    {
+      "timeSeconds": 16.208333333333336,
+      "velocityMetersPerSecond": 8.731534957885742
+    },
+    {
+      "timeSeconds": 16.708333333333336,
+      "velocityMetersPerSecond": 9.552734375
+    },
+    {
+      "timeSeconds": 17.208333333333336,
+      "velocityMetersPerSecond": 10.700090408325195
+    },
+    {
+      "timeSeconds": 17.708333333333336,
+      "velocityMetersPerSecond": 12.12811279296875
+    },
+    {
+      "timeSeconds": 18.208333333333336,
+      "velocityMetersPerSecond": 13.760412216186523
+    },
+    {
+      "timeSeconds": 18.708333333333336,
+      "velocityMetersPerSecond": 15.5
+    },
+    {
+      "timeSeconds": 19.208333333333336,
+      "velocityMetersPerSecond": 17.239587783813477
+    },
+    {
+      "timeSeconds": 19.708333333333336,
+      "velocityMetersPerSecond": 18.87188720703125
+    },
+    {
+      "timeSeconds": 20.208333333333336,
+      "velocityMetersPerSecond": 20.299909591674805
+    },
+    {
+      "timeSeconds": 20.708333333333336,
+      "velocityMetersPerSecond": 21.447265625
+    },
+    {
+      "timeSeconds": 21.208333333333336,
+      "velocityMetersPerSecond": 22.268465042114258
+    },
+    {
+      "timeSeconds": 21.708333333333336,
+      "velocityMetersPerSecond": 22.75921630859375
+    },
+    {
+      "timeSeconds": 22.208333333333336,
+      "velocityMetersPerSecond": 22.966726303100586
+    },
+    {
+      "timeSeconds": 22.708333333333336,
+      "velocityMetersPerSecond": 23.0
+    },
+    {
+      "timeSeconds": 83.25,
+      "velocityMetersPerSecond": 23
+    },
+    {
+      "timeSeconds": 83.29166666666667,
+      "velocityMetersPerSecond": 22.998394880212427
+    },
+    {
+      "timeSeconds": 83.5,
+      "velocityMetersPerSecond": 22.943149198347687
+    },
+    {
+      "timeSeconds": 83.75,
+      "velocityMetersPerSecond": 22.777077644752506
+    },
+    {
+      "timeSeconds": 84.0,
+      "velocityMetersPerSecond": 22.50850661625709
+    },
+    {
+      "timeSeconds": 84.25,
+      "velocityMetersPerSecond": 22.144157389904084
+    },
+    {
+      "timeSeconds": 84.5,
+      "velocityMetersPerSecond": 21.69075124273612
+    },
+    {
+      "timeSeconds": 84.54166666666667,
+      "velocityMetersPerSecond": 21.606997181316302
+    },
+    {
+      "timeSeconds": 84.75,
+      "velocityMetersPerSecond": 21.15500945179584
+    },
+    {
+      "timeSeconds": 85.0,
+      "velocityMetersPerSecond": 20.543653294125882
+    },
+    {
+      "timeSeconds": 85.25,
+      "velocityMetersPerSecond": 19.863404046768885
+    },
+    {
+      "timeSeconds": 85.5,
+      "velocityMetersPerSecond": 19.120982986767487
+    },
+    {
+      "timeSeconds": 85.75,
+      "velocityMetersPerSecond": 18.32311139116432
+    },
+    {
+      "timeSeconds": 86.0,
+      "velocityMetersPerSecond": 17.47651053700203
+    },
+    {
+      "timeSeconds": 86.25,
+      "velocityMetersPerSecond": 16.587901701323254
+    },
+    {
+      "timeSeconds": 86.5,
+      "velocityMetersPerSecond": 15.664006161170622
+    },
+    {
+      "timeSeconds": 86.75,
+      "velocityMetersPerSecond": 14.71154519358678
+    },
+    {
+      "timeSeconds": 87.0,
+      "velocityMetersPerSecond": 13.737240075614366
+    },
+    {
+      "timeSeconds": 87.20833333333333,
+      "velocityMetersPerSecond": 12.913481709672984
+    },
+    {
+      "timeSeconds": 87.25,
+      "velocityMetersPerSecond": 12.747812084296017
+    },
+    {
+      "timeSeconds": 87.5,
+      "velocityMetersPerSecond": 11.749982496674363
+    },
+    {
+      "timeSeconds": 87.75,
+      "velocityMetersPerSecond": 10.750472589792063
+    },
+    {
+      "timeSeconds": 88.0,
+      "velocityMetersPerSecond": 9.75600364069173
+    },
+    {
+      "timeSeconds": 88.25,
+      "velocityMetersPerSecond": 8.773296926416016
+    },
+    {
+      "timeSeconds": 88.5,
+      "velocityMetersPerSecond": 7.8090737240075585
+    },
+    {
+      "timeSeconds": 88.75,
+      "velocityMetersPerSecond": 6.870055310509
+    },
+    {
+      "timeSeconds": 89.0,
+      "velocityMetersPerSecond": 5.962962962962964
+    },
+    {
+      "timeSeconds": 89.25,
+      "velocityMetersPerSecond": 5.094517958412099
+    },
+    {
+      "timeSeconds": 89.5,
+      "velocityMetersPerSecond": 4.27144157389904
+    },
+    {
+      "timeSeconds": 89.75,
+      "velocityMetersPerSecond": 3.500455086466427
+    },
+    {
+      "timeSeconds": 90.0,
+      "velocityMetersPerSecond": 2.7882797731568982
+    },
+    {
+      "timeSeconds": 90.25,
+      "velocityMetersPerSecond": 2.141636911013091
+    },
+    {
+      "timeSeconds": 90.5,
+      "velocityMetersPerSecond": 1.5672477770776487
+    },
+    {
+      "timeSeconds": 90.75,
+      "velocityMetersPerSecond": 1.0718336483931987
+    },
+    {
+      "timeSeconds": 90.875,
+      "velocityMetersPerSecond": 0.8558426100959149
+    },
+    {
+      "timeSeconds": 91.0,
+      "velocityMetersPerSecond": 0.6621158020023814
+    },
+    {
+      "timeSeconds": 91.25,
+      "velocityMetersPerSecond": 0.34481551494784224
+    },
+    {
+      "timeSeconds": 91.5,
+      "velocityMetersPerSecond": 0.12665406427220627
+    },
+    {
+      "timeSeconds": 91.625,
+      "velocityMetersPerSecond": 0.056850801652313265
+    },
+    {
+      "timeSeconds": 91.75,
+      "velocityMetersPerSecond": 0.014352727018124067
+    },
+    {
+      "timeSeconds": 91.875,
+      "velocityMetersPerSecond": 0
+    },
+    {
+      "timeSeconds": 92.70833333333333,
+      "velocityMetersPerSecond": 0
+    },
+    {
+      "timeSeconds": 94.58333333333333,
+      "velocityMetersPerSecond": 0
+    },
+    {
+      "timeSeconds": 94.625,
+      "velocityMetersPerSecond": 0
+    }
+  ]
+}

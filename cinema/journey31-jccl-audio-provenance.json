@@ -1,0 +1,17 @@
+{
+  "status": "Existing original music-only arrangement conformed to currentjourney; optional opt-in",
+  "asset": {
+    "url": "/cinema/journey31-jccl-score.m4a",
+    "kind": "music-only",
+    "durationSeconds": 94.625,
+    "sha256": "2f1c590de1f55beb65587dec4c48269fe9a01c9bd04c816362f83f58b8cf87a4",
+    "bytes": 2300821
+  },
+  "sourcePublicUrl": "/cinema/first-selection-score.m4a",
+  "sourceDurationSeconds": 65.1,
+  "method": "Pitch-preserving tempo adjustment plus final1.5secondfade",
+  "atempo": 0.6879788639365918,
+  "fadeOutSeconds": 1.5,
+  "containsRailEffects": false,
+  "newComposition": false
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "native-station-practicals-v1",
+  "sourceSha256": "9c5163bf50cf6634abdbe492682f93f0ee757540d85dadadc887f73272f1ba03",
+  "camera": {
+    "position": [
+      6.0,
+      -30.0,
+      4.300000190734863
+    ],
+    "lens": 45.0,
+    "shiftY": 0.07874999940395355,
+    "matrix": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        6.0
+      ],
+      [
+        0.0,
+        -4.371138828673793e-08,
+        -1.0,
+        -30.0
+      ],
+      [
+        0.0,
+        1.0,
+        -4.371138828673793e-08,
+        4.300000190734863
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "resolution": [
+    1600,
+    900
+  ],
+  "samples": 64,
+  "view": {
+    "transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.5,
+    "gamma": 1.0
+  },
+  "cityBankAvailable": false,
+  "cityNote": "No city light controls are provided for the background photograph. Native hold canopy is divided at world X=0 into west and east banks.",
+  "banks": [
+    {
+      "id": "west",
+      "label": "West canopy lamps",
+      "hotspot": [
+        0.03387199714779854,
+        0.5312369465827942
+      ]
+    },
+    {
+      "id": "east",
+      "label": "East canopy lamps",
+      "hotspot": [
+        0.5,
+        0.5312369465827942
+      ]
+    }
+  ],
+  "states": {
+    "00": {
+      "url": "/cinema/lights/station-00.webp",
+      "pngUrl": "/cinema/lights/station-00.png",
+      "sha256": "c560f95572e2e6a45c8f8a95dd47c9ea41803c475098514abf8e7d23c918b165",
+      "bytes": 508790,
+      "pngBytes": 951772
+    },
+    "11": {
+      "url": "/cinema/lights/station-11.webp",
+      "pngUrl": "/cinema/lights/station-11.png",
+      "sha256": "885f60f5e15691e9c59c7cefa73fa2a19558e5c11084d0108b0445723c05efe5",
+      "bytes": 517962,
+      "pngBytes": 960598
+    },
+    "10": {
+      "url": "/cinema/lights/station-10.webp",
+      "pngUrl": "/cinema/lights/station-10.png",
+      "sha256": "7f253566f77c531ff42546d37bd26f738a325ccf6291e6f4eba3d6f95ab7f185",
+      "bytes": 508430,
+      "pngBytes": 951705
+    },
+    "01": {
+      "url": "/cinema/lights/station-01.webp",
+      "pngUrl": "/cinema/lights/station-01.png",
+      "sha256": "b70b8ae667ad2e45e13ab31cf6dde46c0b3f4a86c6cc32e15ea64f2cb5bf0818",
+      "bytes": 515246,
+      "pngBytes": 957932
+    }
+  }
+}

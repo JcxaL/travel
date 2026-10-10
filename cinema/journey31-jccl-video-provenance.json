@@ -1,0 +1,28 @@
+{
+  "status": "Nativebranded31scenejourney releasecandidate",
+  "branding": "JccL / travel archives",
+  "assets": {
+    "desktop": {
+      "url": "/cinema/journey31-jccl-desktop.mp4",
+      "bytes": 26221539,
+      "sha256": "cd85b58da87a9a5b0707b833c23e2768df61ed433ed45206ca2dcdd2ab521115",
+      "width": 1280,
+      "height": 720,
+      "frames": 2271,
+      "fps": 24,
+      "durationSeconds": 94.625
+    },
+    "mobile": {
+      "url": "/cinema/journey31-jccl-mobile.mp4",
+      "bytes": 10482499,
+      "sha256": "07bac4c60ae1bdbe5544734b5556d511e12a85c3780822f21b47065c8b0528e1",
+      "width": 960,
+      "height": 540,
+      "frames": 2271,
+      "fps": 24,
+      "durationSeconds": 94.625
+    }
+  },
+  "trainDesign": "Approvedcab-v004, 48nativeworldsources; previoussceneimprovements preserved",
+  "mobileComposition": "Full16:9 nativecomposition preserved; mobile960x540 lowerbitrate responsivecontain, sameendpointprojection"
+}
